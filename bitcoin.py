@@ -1,6 +1,7 @@
 import requests
 import json
 
+# This is bitcoin price url
 BITCOIN_API_URL = 'https://blockchain.info/ticker'
 
 
